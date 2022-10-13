@@ -1,5 +1,7 @@
 # 　競技プログラミングの鉄則
 
+
+## アルゴリズムと計算量
 |番号|扱う問題|問題A|問題B|
 |:--:|:--:|:--:|:--:|
 |1.1|導入問題|[A01](https://github.com/kaneda0511/Laws-of-Competitive-Programming/blob/main/Laws_PR/A01.ipynb)|[B01](https://github.com/kaneda0511/Laws-of-Competitive-Programming/blob/main/Laws_PR/B01.ipynb)|
@@ -8,6 +10,7 @@
 |1.4|２進数|[A04](https://github.com/kaneda0511/Laws-of-Competitive-Programming/blob/main/Laws_PR/A04.ipynb)|[B04](https://github.com/kaneda0511/Laws-of-Competitive-Programming/blob/main/Laws_PR/B04.ipynb)|
 |1.5|チャレンジ問題|[A05](https://github.com/kaneda0511/Laws-of-Competitive-Programming/blob/main/Laws_PR/A05.ipynb)||
 
+## 累積和
 |番号|扱う問題|問題A|問題B|
 |:--:|:--:|:--:|:--:|
 |2.1|一次元の累積和(1)|[A06](https://github.com/kaneda0511/Laws-of-Competitive-Programming/blob/main/Laws_PR/A06.ipynb)|[B06](https://github.com/kaneda0511/Laws-of-Competitive-Programming/blob/main/Laws_PR/B06.ipynb)|
