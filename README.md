@@ -1,7 +1,7 @@
 # 　競技プログラミングの鉄則
 
 |番号|扱う問題|問題A|問題B|
-|:--:|:--:|:--:|
+|:--:|:--:|:--:|:--:|
 |1.1|導入問題|[A01](https://github.com/kaneda0511/Laws-of-Competitive-Programming/blob/main/Laws_PR/A01.ipynb)|[B01](https://github.com/kaneda0511/Laws-of-Competitive-Programming/blob/main/Laws_PR/B01.ipynb)|
 |1.2|全探索(1)|[A02](https://github.com/kaneda0511/Laws-of-Competitive-Programming/blob/main/Laws_PR/A02.ipynb)|[B02](https://github.com/kaneda0511/Laws-of-Competitive-Programming/blob/main/Laws_PR/B02.ipynb)|
 |1.3|全探索(2)|[A03](https://github.com/kaneda0511/Laws-of-Competitive-Programming/blob/main/Laws_PR/A03.ipynb)|[B03](https://github.com/kaneda0511/Laws-of-Competitive-Programming/blob/main/Laws_PR/B03.ipynb)|
