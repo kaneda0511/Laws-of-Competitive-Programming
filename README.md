@@ -1,7 +1,7 @@
 # 　競技プログラミングの鉄則
 
 
-## 1章　アルゴリズムと計算量
+## [1章　アルゴリズムと計算量](https://github.com/kaneda0511/Laws-of-Competitive-Programming/tree/main/Laws_PR/1%E7%AB%A0)
 |番号|扱う問題|問題A|問題B|難易度|
 |:--:|:--:|:--:|:--:|:--:|
 |1.1|導入問題|[A01](https://github.com/kaneda0511/Laws-of-Competitive-Programming/blob/main/Laws_PR/A01.ipynb)|[B01](https://github.com/kaneda0511/Laws-of-Competitive-Programming/blob/main/Laws_PR/B01.ipynb)|★1|
